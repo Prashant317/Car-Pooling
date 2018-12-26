@@ -1,0 +1,44 @@
+h1
+{
+	text-align:left;
+	
+	
+}
+div.p1
+{
+	display:block;
+	text-align:center;
+	font-size:25px;
+	margin: 40px 40px 40px 40px;
+}
+div.quality
+{
+ text-align:left;
+ border:solid;
+ }
+ul.a
+{
+	font-size:20px;
+}
+
+ul.b
+{
+	font-size:20px;
+	text-align:center;
+	height:20px;
+}
+ul.c
+{
+	font-size:20px;
+	text-align:right:
+}
+
+body
+{
+	background-color:lightyellow;
+
+    background-image: url("https://www.shutterstock.com/image-illustration/gray-empty-room-studio-gradient-used-662267227?src=8nHeRuXRV-oIme-YgTxFYA-1-0");
+
+}
+
+
